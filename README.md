@@ -1,3 +1,6 @@
 # JavaScript Learning (Basic)
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-vgzimm)
+## Creating Variables in JavaScript
+1. Using `var`
+2. Using `let`
+3. Using `const`
