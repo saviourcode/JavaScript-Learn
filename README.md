@@ -1,5 +1,9 @@
 # JavaScript Learning (Basic)
 
+## Learning Resource
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+
+
 ## Creating Variables in JavaScript
 1. Using `var`: For creating variables that have life throughout the program
 2. Using `let`: For creating variables that have block specific scope
